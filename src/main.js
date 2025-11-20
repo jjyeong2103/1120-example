@@ -21,7 +21,7 @@ app.innerHTML = `
       <section class="section about">
         <div class="section-title">
           <h2>간단 소개</h2>
-          <p>지금은 배포하는 걸하고 있어요요</p>
+          <p>지금은 배포하는 걸하고 있어요</p>
         </div>
         <div class="about-grid">
           <article class="about-card">
@@ -34,7 +34,7 @@ app.innerHTML = `
           <article class="about-card highlight">
             <h3>현재 관심사</h3>
             <p>
-              curor ai를 활용한 웹 앱 만들기기
+              curor ai를 활용한 웹 앱 만들기
             </p>
           </article>
           <article class="about-card">
