@@ -34,7 +34,7 @@ app.innerHTML = `
           <article class="about-card highlight">
             <h3>현재 관심사</h3>
             <p>
-              curor ai를 활용한 웹 앱 만들기
+              cursor ai를 활용한 웹 앱 만들기
             </p>
           </article>
           <article class="about-card">
